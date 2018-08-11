@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\TestConnOpen\CircuitLib\obj\Debug\netcoreapp2.0\CircuitLib.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TestConnOpen\CircuitLib\obj\Debug\netcoreapp2.0\CircuitLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestConnOpen\CircuitLib\obj\Debug\netcoreapp2.0\CircuitLib.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TestConnOpen\CircuitLib\obj\Debug\netcoreapp2.0\CircuitLib.AssemblyInfo.cs

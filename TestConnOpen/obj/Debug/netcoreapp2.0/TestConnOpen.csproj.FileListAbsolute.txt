@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\bin\Debug\netcoreapp2.0\TestConnOpen.deps.json
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\bin\Debug\netcoreapp2.0\TestConnOpen.runtimeconfig.json
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\bin\Debug\netcoreapp2.0\TestConnOpen.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\bin\Debug\netcoreapp2.0\TestConnOpen.dll
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\bin\Debug\netcoreapp2.0\TestConnOpen.pdb
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.dll
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.pdb
+C:\Users\Administrator\source\repos\TestConnOpen\TestConnOpen\obj\Debug\netcoreapp2.0\TestConnOpen.csprojAssemblyReference.cache
